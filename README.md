@@ -1,4 +1,4 @@
-# 📷📏🤏 image_resizer
+#image_resizer 📷📏🤏
 
 ## 🤔 Purpose:
 A script for batch image processing with Python and Pillow. Use cases:
